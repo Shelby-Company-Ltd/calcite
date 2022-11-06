@@ -70,6 +70,7 @@ include(
     "file",
     "geode",
     "innodb",
+    "jsonrestapi",
     "kafka",
     "linq4j",
     "mongodb",
